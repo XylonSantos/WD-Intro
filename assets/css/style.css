@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     background-color: #f4f4f4;
@@ -20,7 +20,7 @@ body {
     width: 30%;
     background: #2c3e50;
     color: #fff;
-    padding: 30px;
+    padding: 20px;
     box-sizing: border-box;
 }
 
@@ -80,6 +80,7 @@ body {
     text-decoration: underline;
 }
 
+
 .main-content {
     width: 70%;
     padding: 20px;
@@ -106,9 +107,14 @@ body {
     margin: 0 0 5px;
 }
 
-.skills-list p {
+.skills-list {
+    padding-left: 20px;
+}
+
+.skills-list li {
     background: #e4e4e4;
     margin: 5px 0;
     padding: 10px;
     border-radius: 3px;
+    list-style-type: disc;
 }
