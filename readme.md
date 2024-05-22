@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="assets/img/Logo.jpg" alt="Logo" width="130" height="100">
+    <img src="assets/img/Logo.jpg" alt="Logo" width="230" height="200">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">WD-Resume - XYLON SANTOS - TW04</h3>
@@ -63,7 +63,7 @@ Guiding Question:
 - What is the project - Resume
 - Whats the purpose - The purpose is to make a simple resume using our current knowledge in HTML and CSS, also to improve our capabilities for the future projects 
 - What are key components - The key components here are HTML, Sidebar, Main Content, and CSS
-- What technology used and how it is used - The technology used are VSCode, HTML and CSS for the coding of the resume, GitHub for the repository, and WakaTime for the tracking of the project
+- What technology used and how it is used - The technology used are VSCode, HTML and CSS for the coding of the project, GitHub for the repository, and WakaTime for the tracking of the project
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -114,4 +114,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| HTML Tutorial | HTML Tutorial of the basics | https://www.w3schools.com/html/ |
+| CSS Tutorial | CSS Tutorial of the basics | https://www.w3schools.com/css/ |
+
