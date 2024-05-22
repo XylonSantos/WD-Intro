@@ -1,3 +1,114 @@
-.image{
-    border-radius: 150px;
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+
+.container {
+    display: flex;
+    max-width: 1000px;
+    margin: 20px auto;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.sidebar {
+    width: 30%;
+    background: #2c3e50;
+    color: #fff;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 75%;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.profile h1, .profile h2 {
+    text-align: center;
+    margin: 0;
+}
+
+.profile h1 {
+    font-size: 1.5em;
+}
+
+.profile h2 {
+    font-size: 1em;
+    color: #bdc3c7;
+    margin-top: 5px;
+}
+
+.sidebar section {
+    margin-bottom: 20px;
+}
+
+.sidebar h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #bdc3c7;
+    padding-bottom: 5px;
+}
+
+.sidebar p, .sidebar ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.sidebar ul li {
+    background: #34495e;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.sidebar a {
+    color: #1abc9c;
+    text-decoration: none;
+}
+
+.sidebar a:hover {
+    text-decoration: underline;
+}
+
+.main-content {
+    width: 70%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.main-content section {
+    margin-bottom: 20px;
+}
+
+.main-content h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #2c3e50;
+    padding-bottom: 5px;
+}
+
+.job {
+    margin-bottom: 20px;
+}
+
+.job h4 {
+    font-size: 1.2em;
+    margin: 0 0 5px;
+}
+
+.skills-list p {
+    background: #e4e4e4;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 3px;
 }
